@@ -1,2 +1,2 @@
-# golang-repo-template
-This project is a template repository for my typical golang repositories
+# Blaster
+Blaster is a simple tcp/udp traffic generation library designed to enable simple yet flexible synthetic traffic generation.
